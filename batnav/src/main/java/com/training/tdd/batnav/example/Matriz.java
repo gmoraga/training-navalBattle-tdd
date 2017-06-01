@@ -1,4 +1,4 @@
-package com.training.tdd.batnav.srv;
+package com.training.tdd.batnav.example;
 import java.util.Scanner; //el programa usa la clase escaner 
 public class Matriz { 
 
