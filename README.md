@@ -14,8 +14,6 @@ El jugo de tablero: Batalla naval. Para esto realizaremos el desarrollo del jueg
 
 Especificaciones:
 
-CANTIDAD 1 TEST
-
 Cantidad de jugadores: 2 
 Cantidad de navíos por jugador: 5 
 
