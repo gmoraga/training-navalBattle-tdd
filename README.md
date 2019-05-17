@@ -8,7 +8,7 @@ Juego de batalla naval
 Requerimiento:
 
 Se desea representar en un programa escrito en lenguaje de programación java (Puedes usar el que desees). 
-El jugo de tablero: Batalla naval. Para esto realizaremos el desarrollo del juego utilizando la técnica de desarrollo TDD
+El juego de tablero: Batalla naval. Para esto realizaremos el desarrollo del juego utilizando la técnica de desarrollo TDD
 
 ¡Recuerda construir con pequeños pasos!
 
@@ -54,4 +54,4 @@ Paso a paso
 
 Crear un proyecto de tipo maven
 
-No le des muchas vueltas a los nombre del proyecto, de las clases, de los métodos, etc. El descubrimiento del modelo del problema, te retro alimentara para encontrar mejores nombres y mejoraras también tu diseño
+No le des muchas vueltas a los nombre del proyecto, de las clases, de los métodos, etc. El descubrimiento del modelo y del problema, te hara encontrar mejores nombres y diseños que ajustados a la realidad
